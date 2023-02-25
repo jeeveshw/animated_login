@@ -111,7 +111,7 @@ button{
     margin: 25px 0 10px;
 }
 .register p a{
-    text-decoration:underline;
+    text-decoration:none;
     color: #fff;
     font-weight: 600;
 }
